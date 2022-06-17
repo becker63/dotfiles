@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=unclutter
+Exec=unclutter -idle 4 -root
+StartupNotify=false
+Terminal=false

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=wallpaper
+Exec=feh --bg-fill ~/.config/wallpaper3.jpg
+StartupNotify=false
+Terminal=false

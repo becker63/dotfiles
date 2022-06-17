@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=alacrittySetup
+Exec=bash -c """code && alacritty & disown"""
+StartupNotify=false
+Terminal=false

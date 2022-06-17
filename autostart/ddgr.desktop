@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=alacrittySetup
+Exec=zsh -c "export BROWSER=w3m googler "
+StartupNotify=false
+Terminal=false
